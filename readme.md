@@ -41,7 +41,7 @@
   </div>
   ```
 
-  ![alt text](/img/Tempconverter.png)
+  ![alt text](/css/Tempconverter.png)
 
   ---
 
