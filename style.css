@@ -1,0 +1,47 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Bebas Neue', cursive;
+font-family: 'Indie Flower', cursive;
+}
+
+.buttons {
+  justify-content: center;
+  display: flex;
+}
+
+.buttons2 {
+  display: flex;
+  justify-content: center;
+  /* padding: 40px 60px; */
+  
+}
+
+#text {
+  text-align: center;
+  margin-bottom: 20px;
+  
+  
+}
+
+body {
+  background-color: rgb(210, 210, 210);
+}
+
+#three {
+  background-color: yellow;
+  padding: 10px 30px;
+  border-radius: 100px;
+  
+}
+
+#four {
+  padding: 10px 30px;
+  border-radius: 100px;
+  background-color: skyblue;
+}
+
+#one {
+  padding: 10px 20px;
+}
